@@ -1,0 +1,35 @@
+.top {
+    background: #f6f6f6;
+}
+
+.list-item {
+    border-right: 1px solid lightgray;
+    padding: 5px 10px;
+}
+
+.bg-color {
+    background: #002366;
+}
+
+.btn-color {
+    background: #db001f;
+    color: #fff;
+}
+
+.navbar-brand {
+    border: 1px solid #db001f;
+    background: #db001f;
+    width: 270px;
+    height: 45px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.nav-link {
+    color: #fff;
+}
+
+.nav-link:hover {
+    color: #db001f;
+
+}
